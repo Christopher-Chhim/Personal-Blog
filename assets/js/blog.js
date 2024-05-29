@@ -1,4 +1,4 @@
-// 
+
 let blogArray = JSON.parse(localStorage.getItem('blogPost')) || [];
 console.log(blogArray);
 // initiated a value to store the id for html reference
