@@ -1,0 +1,22 @@
+:root{
+    --content-height: 500px;
+}
+
+.border{
+   border: 10px #333333; 
+   height:150px;
+}
+
+button {
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    width: 500px;
+    text-align: center;
+}
+
+
+.submit{
+    color: white;
+}

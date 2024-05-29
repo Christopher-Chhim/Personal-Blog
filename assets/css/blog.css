@@ -1,0 +1,23 @@
+.card{
+    margin: 5px;
+    display: flexbox;
+    justify-content: center;
+    box-shadow: black;
+    color: black;
+    padding: 5px;
+    border: 1px solid black;
+    position: relative;
+}
+
+/* h1,
+h2,
+h3{
+font-size: large;
+text-align: center;
+} */
+
+.circle{
+    margin: auto;
+    color: blue;
+    
+}
